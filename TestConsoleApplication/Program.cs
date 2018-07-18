@@ -10,6 +10,7 @@ namespace TestConsoleApplication
     {
         static void Main(string[] args)
         {
+            //Test appllication
         }
     }
 }
