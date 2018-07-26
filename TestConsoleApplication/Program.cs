@@ -12,6 +12,8 @@ namespace TestConsoleApplication
         {
             //Test appllication
             Console.WriteLine("test application");
+
+            Console.WriteLine("2nd checkin");
         }
     }
 }
