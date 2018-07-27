@@ -18,6 +18,8 @@ namespace TestConsoleApplication
             Console.WriteLine("1st checkin from UI");
 
             Console.WriteLine("3rd checkin from project");
+
+            Console.WriteLine("4th checkin from project");
         }
     }
 }
